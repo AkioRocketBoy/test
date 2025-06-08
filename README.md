@@ -1,3 +1,3 @@
 # test
 練習用のリポジトリです。
-akio
+\n akio
